@@ -1,0 +1,4 @@
+baseURL = "https://sre-paris.github.io/"
+languageCode = "en-us"
+title = "SRE Paris"
+theme = "ananke"
