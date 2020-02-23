@@ -2,3 +2,31 @@ baseURL = "https://sre-paris.github.io/"
 languageCode = "en-us"
 title = "SRE Paris"
 theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "SRE people around Paris"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/sre-paris/"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  background_color_class = "bg-black"
+  featured_image = "/images/bg.jpg"
+  recent_posts_number = 2
