@@ -1,32 +1,67 @@
 baseURL = "https://sre-paris.github.io/"
 languageCode = "en-us"
 title = "SRE Paris"
-theme = "ananke"
+theme = "beautifulhugo"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3
 enableRobotsTXT = true
+
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
-[params]
-  favicon = ""
-  description = "SRE people around Paris"
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = "https://github.com/sre-paris/"
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  background_color_class = "bg-black"
-  featured_image = "/images/bg.jpg"
-  recent_posts_number = 2
+
+[Params]
+  homeTitle = "SRE Paris"
+  subtitle = "Site reliability engineers around Paris"
+  mainSections = ["post","posts"]
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = ""
+  position = "center top"
+
+
+[Author]
+  website = "https://sre-paris.github.io/"
+  github = "sre-paris"
+  telegram = "SREParis"
+
+[[menu.main]]
+    name = "Meetups"
+    url = "tags/meetup/"
+    weight = 1
+
+[[menu.main]]
+    name = "Job Board"
+    url = "page/job-board/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 4
