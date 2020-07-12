@@ -23,7 +23,6 @@ pygmentsCodefencesGuessSyntax = true
   subtitle = "Site reliability engineers around Paris"
   mainSections = ["post","posts"]
   favicon = "img/favicon.ico"
-  logo = "img/share.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
