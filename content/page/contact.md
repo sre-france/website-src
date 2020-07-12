@@ -1,6 +1,7 @@
 ---
 title: Contact
 subtitle: We'd love to hear from you
+image: "img/share.png"
 comments: false
 socialShare: false
 ---

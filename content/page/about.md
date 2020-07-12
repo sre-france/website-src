@@ -1,6 +1,7 @@
 ---
 title: About
 subtitle: What we're about
+image: "img/share.png"
 comments: false
 socialShare: false
 ---

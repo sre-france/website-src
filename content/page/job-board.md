@@ -1,6 +1,7 @@
 ---
 title: Job Board
 subtitle: Looking for new challenges
+image: "img/share.png"
 comments: false
 socialShare: false
 ---
