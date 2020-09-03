@@ -1,7 +1,7 @@
 ---
 title: "#2 Site Reliability Engineering, Take #2 and #FRABEL!"
 date: 2018-07-10T19:00:00-01:00
-bigimg: [{src: "/img/meetup/02.jpg", desc: "Meetup #2 at LeBonCoin"}]
+bigimg: [{src: "/img/meetup/02.webp", desc: "Meetup #2 at LeBonCoin"}]
 tags: ["meetup"]
 ---
 Bonjour à tous,

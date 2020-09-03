@@ -1,7 +1,7 @@
 ---
 title: "#3 Site Reliability Engineering and news from the SREcon 2018"
 date: 2018-09-19T19:00:00-01:00
-bigimg: [{src: "/img/meetup/03.jpg", desc: "Meetup #3 at Datadog"}]
+bigimg: [{src: "/img/meetup/03.webp", desc: "Meetup #3 at Datadog"}]
 tags: ["meetup"]
 ---
 Bonjour à tous,
