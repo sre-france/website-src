@@ -1,7 +1,7 @@
 ---
 title: "[IRL] Planning and organization for next SRE meetup"
 date: 2020-07-09T18:30:00-01:00
-tags: ["meetup"]
+tags: ["org"]
 ---
 Hi everyone,
 
