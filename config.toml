@@ -36,7 +36,27 @@ pygmentsCodefencesGuessSyntax = true
   hideAuthor = true
 
 [[Params.bigimg]]
-  src = "img/sphere.jpg"
+  src = "img/meetup/01.webp"
+  desc = ""
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/meetup/02.webp"
+  desc = ""
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/meetup/03.webp"
+  desc = ""
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/meetup/04.webp"
+  desc = ""
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/meetup/05.webp"
+  desc = ""
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/meetup/06.webp"
   desc = ""
   position = "center top"
 
