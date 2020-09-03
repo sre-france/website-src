@@ -1,6 +1,6 @@
 ---
 title: "#2 Site Reliability Engineering, Take #2 and #FRABEL!"
-date: 2018-07-19T19:00:00-01:00
+date: 2018-07-10T19:00:00-01:00
 bigimg: [{src: "/img/meetup/02.jpg", desc: "Meetup"}]
 tags: ["meetup"]
 ---
