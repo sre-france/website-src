@@ -1,7 +1,7 @@
 ---
 title: "#4 Site Reliability Engineering - Meetup de la rentrée"
 date: 2019-09-18T19:00:00-01:00
-bigimg: [{src: "/img/meetup/04.webp", desc: "Meetup #2 at Evaneos"}]
+bigimg: [{src: "/img/meetup/04.webp", desc: "Meetup #4 at Evaneos"}]
 tags: ["meetup"]
 ---
 Bonjour à tous,
