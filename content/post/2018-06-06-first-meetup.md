@@ -1,7 +1,7 @@
 ---
 title: "#1 Site Reliability Engineering, It's here !"
 date: 2018-06-06T19:00:00-01:00
-bigimg: [{src: "/img/meetup/01.jpg", desc: "Meetup"}]
+bigimg: [{src: "/img/meetup/01.jpg", desc: "Meetup #1 at PeopleDoc"}]
 tags: ["meetup"]
 ---
 Bonjour à tous,
