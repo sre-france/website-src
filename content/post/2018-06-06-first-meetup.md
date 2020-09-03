@@ -12,6 +12,8 @@ Pour ce premier Meetup SRE à Paris nous serons hébergés dans les locaux de Pe
 
 <!--more-->
 
+### Programme
+
 Donc voici le déroulé de la soirée :
 
 * **19h00-19h30 :** Accueil des participants : On commence la soirée avec un petit apéro, bières/des boissons non alcoolisées pour briser la glace :)
@@ -24,4 +26,9 @@ Donc voici le déroulé de la soirée :
 * **20h45 :** Pizza Time
 * **21h30 :** Fin de l'event
 
-Details and photos [here](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/251066328/).
+
+### Links
+
+* Détails de l'event sur [Meetup.com](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/251066328/)
+* [Photos](https://www.meetup.com/Site-Reliability-Engineering-Paris/photos/28949464/)
+* Slides de la présentation [What's an SRE at Criteo](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/251066328/) de Clément Michaud

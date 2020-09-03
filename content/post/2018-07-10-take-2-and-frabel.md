@@ -8,9 +8,11 @@ Bonjour à tous,
 
 Nous sommes ravis de vous inviter au 2ème meetup Site Reliability Engineering Paris !
 
-A cette occasion, nous serons hébergés dans les locaux de leboncoin pour continuer à discuter du vaste sujet du modèle SRE et des enjeux techniques pour nos environnements respectifs et pour regarder la demi-finale de la Coupe du monde 2018 entre l'équipe de France et la Belgique.
+A cette occasion, nous serons hébergés dans les locaux de LeBonCoin pour continuer à discuter du vaste sujet du modèle SRE et des enjeux techniques pour nos environnements respectifs et pour regarder la demi-finale de la Coupe du monde 2018 entre l'équipe de France et la Belgique.
 
 <!--more-->
+
+### Programme
 
 Donc voici le déroulé de la soirée :
 
@@ -19,18 +21,23 @@ Donc voici le déroulé de la soirée :
 * **19h35-19h55 :** Production-Ready Microservices par Amine Ben Asker @ Bnpparibas CIB
 * **19h55-20h05 :** Lightning talks (5-10 min) : Infra monitoring with Prometheus at PeopleDoc par Swann Croiset, Les Container Attached Storage, la fausse bonne idée par Cédric Hauber @OneWealthPlace et d'autres volontaires
 * **20h05-20h25 :** Free Talks et Panel de Questions
-* **20h25-22h00 :** Traiteur (charcuterie, fromage, crudites, fruits...), du vin/des softs et Match de football #FRABEL !!
+* **20h25-22h00 :** Traiteur (charcuterie, fromage, crudités, fruits...), du vin/des softs et Match de football #FRABEL !!
 
-_Contactez nous pour nous informer de toute restriction alimentaire_
+_Contactez nous pour nous informer de toute restriction alimentaire_.
 
-## Détail des présentations
 
-### Titre : Production-Ready Microservices
+### Détail des présentations
 
-Le traitement des erreurs inattendues est un des problèmes les plus difficiles à résoudre, en particulier dans un système distribué.
+#### Production-Ready Microservices
+
+**Speaker:** Amine Ben Asker is a software engineer specialized in the field of distributed systems. Actually he works at Bnpparibas CIB as cloud architect consultant
+
+**Description:** Le traitement des erreurs inattendues est un des problèmes les plus difficiles à résoudre, en particulier dans un système distribué.
 Les problèmes de résilience peuvent être rencontrés dans plusieurs scénarios, la mise en prod d'une nouvelle application, changement de version d'une API , le dysfonctionnement d'un équipement réseaux...
 En outre un système basé sur le cloud doit traiter lui aussi les défaillances et les gérer automatiquement.
 
-Amine Ben Asker is a software engineer specialized in the field of distributed systems. Actually he works at Bnpparibas CIB as cloud architect consultant
 
-Details and photos [here](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/251677725/).
+### Links
+
+* Détails de l'event sur [Meetup.com](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/251677725/)
+* [Photos](https://www.meetup.com/Site-Reliability-Engineering-Paris/photos/29057853/)
