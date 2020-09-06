@@ -1,7 +1,8 @@
 ---
 title: "#5 Site Reliability Engineering - Recap SRECon'19 chez Datadog"
 date: 2019-10-15T19:00:00-01:00
-bigimg: [{src: "/img/meetup/05.jpg", desc: "Meetup #5 at Datadog"}]
+bigimg: [{src: "/img/meetup/05.webp", desc: "Meetup #5 at Datadog"}]
+image: "/img/meetup/05.jpg"
 tags: ["meetup"]
 ---
 Bonjour à tous,
