@@ -14,8 +14,8 @@ SRE ou juste pour ceux qui veulent savoir un peu plus ce sera l'occasion
 d'échanger sur les best-practices, les problématiques, les outils et des
 anecdotes de ce sujet en pleine essor, sur le marché tech et digital.
 
-Pour en discuter avec le groupe n'hésitez pas à joindre notre [groupe
-Telegram](https://t.me/joinchat/UtlUno6ukr0r6v6I).  Pour ceux qu'ils
+Pour en discuter avec le groupe n'hésitez pas à rejoindre notre [groupe
+Telegram](https://t.me/joinchat/I3E-86O8PV7Dl3RO).  Pour ceux qu'ils
 veulent juste suivre les actualités du groupe il y a aussi ce [channel
 Telegram](https://t.me/SREParisNews) en mode broadcast.
 

@@ -6,8 +6,8 @@ comments: false
 socialShare: false
 ---
 
-Pour en discuter avec le groupe n'hésitez pas à joindre notre [groupe
-Telegram](https://t.me/joinchat/UtlUno6ukr0r6v6I).
+Pour en discuter avec le groupe n'hésitez pas à rejoindre notre [groupe
+Telegram](https://t.me/joinchat/I3E-86O8PV7Dl3RO).
 
 Ou pour ceux qu'ils veulent juste suivre les actualités du groupe il y a aussi
 ce channel Telegram en mode broadcast
