@@ -7,7 +7,7 @@ tags: ["cfp"]
 
 Bonjour à tous 👋 !
 
-On est en train de préparer la prochaine édition en ligne du meetup SRE Paris et à cet occasion il y aura quelques good news à partager concernant le groupe, des talks en cours préparation, et il y a des slots disponibles pour des présentations et/ou démos avec ces 2 formats :
+On est en train de préparer la prochaine édition en ligne du meetup SRE Paris et à cet occasion il y aura quelques good news à partager concernant le groupe, des [talks en cours préparation](https://github.com/sre-paris/meetups/tree/master/cfp/%239), et il y a des slots disponibles pour des présentations et/ou démos avec ces 2 formats :
 
 <!--more-->
 
