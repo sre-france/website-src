@@ -30,6 +30,6 @@ Pour les détails des présentations c'est par ici:
 * [Slides](https://github.com/sre-paris/meetups/blob/main/meetups/%2310/an-overview-of-container-os.pdf) et [description complète](https://github.com/sre-paris/meetups/blob/main/meetups/%2310/an-overview-of-container-os.md) de **An overview of container OS** par Mathieu Tortuyaux
 * [Slides](https://github.com/sre-paris/meetups/blob/main/meetups/%2310/velero-our-feedback-from-kubernetes-workload-migration.pdf) et [description complète](https://github.com/sre-paris/meetups/blob/main/meetups/%2310/velero-our-feedback-from-kubernetes-workload-migration.md) de **Velero : Our feedback from Kubernetes workload migration** par Emmanuel Lagrée
 
-* Description de [l'événement sur meetup.com](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/279590014/)
+* Description de [l'événement sur meetup.com](https://www.meetup.com/Site-Reliability-Engineering-Paris/events/279590014/) et les [photos par ici](https://www.meetup.com/Site-Reliability-Engineering-Paris/photos/31545704/#497810405).
 
 Merci aux speakers et à tous les participants 🙏 et à très bientôt !
