@@ -21,6 +21,10 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Companies
 
+* **Mirakl** Labs
+  [labs.mirakl.jobs](https://labs.mirakl.jobs/emplois)
+* **DataDome**
+  [welcometothejungle.com/fr/companies/datadome/jobs](https://www.welcometothejungle.com/fr/companies/datadome/jobs)
 * **Le Bon Coin** Recrutement
   [leboncoin.fr](https://www.leboncoin.fr/boutique/11532/postulez_aux_offres_d_emploi_leboncoin.htm/)
 * **Datadog** Engineering
