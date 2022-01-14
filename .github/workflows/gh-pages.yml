@@ -26,7 +26,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: sre-paris/sre-paris.github.io
+          external_repository: sre-france/sre-france.github.io
           publish_branch: master
           publish_dir: ./public
   
