@@ -1,4 +1,4 @@
-# SRE Paris Website
+# SRE France Website
 
 This repo contains the source files used to generate the website
 https://sre-paris.github.io using [Hugo](https://gohugo.io/).
