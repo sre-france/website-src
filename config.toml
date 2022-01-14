@@ -1,6 +1,6 @@
-baseURL = "https://sre-paris.github.io/"
+baseURL = "https://sre-france.github.io/"
 languageCode = "en-us"
-title = "SRE Paris"
+title = "SRE France"
 theme = "beautifulhugo"
 
 MetaDataFormat = "yaml"
@@ -19,8 +19,8 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [Params]
-  homeTitle = "SRE Paris"
-  subtitle = "Site reliability engineers around Paris"
+  homeTitle = "SRE France"
+  subtitle = "Site reliability engineers in France"
   mainSections = ["post","posts"]
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -50,8 +50,8 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [Author]
-  website = "https://sre-paris.github.io/"
-  github = "sre-paris"
+  website = "https://sre-france.github.io/"
+  github = "sre-france"
   telegram = "joinchat/UtlUno6ukr0r6v6I"
 
 [[menu.main]]
@@ -61,7 +61,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Github"
-    url = "https://github.com/sre-paris/"
+    url = "https://github.com/sre-france/"
     weight = 2
 
 [[menu.main]]
