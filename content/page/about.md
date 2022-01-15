@@ -7,7 +7,7 @@ socialShare: false
 ---
 
 Ceci est un site pour des personnes intéressés par la thématique Site
-Reliability Engineering sur Paris.
+Reliability Engineering partout en France.
 
 Pour ceux qui font partie d'une équipe SRE, ceux qui veulent créer une équipe
 SRE ou juste pour ceux qui veulent savoir un peu plus ce sera l'occasion
@@ -20,4 +20,4 @@ veulent juste suivre les actualités du groupe il y a aussi ce [channel
 Telegram](https://t.me/SREParisNews) en mode broadcast.
 
 N'hésitez pas à visiter le [Jobs Board SRE](/page/job-board/) avec des offres
-d'emploi sur Paris et en remote.
+d'emploi en France et en remote.

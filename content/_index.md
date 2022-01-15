@@ -1,4 +1,4 @@
 ---
-summary: Site reliability engineers around Paris
+summary: Site reliability engineers in France
 image: "img/share.png"
 ---
