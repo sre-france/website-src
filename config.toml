@@ -17,6 +17,8 @@ pygmentsCodefencesGuessSyntax = true
   priority = 0.5
   filename = "sitemap.xml"
 
+[minify]
+  disableHTML = true
 
 [Params]
   homeTitle = "SRE France"
