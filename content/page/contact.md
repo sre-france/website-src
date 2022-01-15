@@ -11,4 +11,4 @@ Telegram](https://t.me/joinchat/I3E-86O8PV7Dl3RO).
 
 Ou pour ceux qu'ils veulent juste suivre les actualités du groupe il y a aussi
 ce channel Telegram en mode broadcast
-[t.me/SREParisNews](https://t.me/SREParisNews).
+[t.me/SREFranceNews](https://t.me/SREFranceNews).
