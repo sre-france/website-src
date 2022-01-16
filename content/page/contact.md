@@ -12,3 +12,7 @@ Telegram](https://t.me/+djs7fX8-2xwyYjJk).
 Ou pour ceux qu'ils veulent juste suivre les actualités du groupe il y a aussi
 ce channel Telegram en mode broadcast
 [t.me/SREFranceNews](https://t.me/SREFranceNews).
+
+Pour des questions liés à l'organisation de meetups vous pouvez nous contacter
+aussi via
+[Meetup.com](https://www.meetup.com/Site-Reliability-Engineering-France/).
