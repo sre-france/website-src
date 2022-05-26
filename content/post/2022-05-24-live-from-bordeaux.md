@@ -25,7 +25,7 @@ L'enregistrement du meetup a été possible grâce à l'aide de Romain de [Mirak
 
 Pour les détails des présentations c'est par ici:
 
-* [Slides](https://github.com/sre-france/meetups/blob/main/meetups/2022-05-24/ne-laissez-pas-vos-mauvaises-habitudes-k8s-devenir-le-cauchemar-de-vos-administrateurs-k8s.md) et [description complète](https://github.com/sre-france/meetups/blob/main/meetups/2022-05-24/ne-laissez-pas-vos-mauvaises-habitudes-k8s-devenir-le-cauchemar-de-vos-administrateurs-k8s.md) de **Ne laissez pas vos mauvaises habitudes k8s devenir le cauchemar de vos administrateurs k8s** par Henrik Rexed ([@hrexed](https://twitter.com/hrexed))
+* [Slides](https://github.com/sre-france/meetups/blob/main/meetups/2022-05-24/ne-laissez-pas-vos-mauvaises-habitudes-k8s-devenir-le-cauchemar-de-vos-administrateurs-k8s.pptx) et [description complète](https://github.com/sre-france/meetups/blob/main/meetups/2022-05-24/ne-laissez-pas-vos-mauvaises-habitudes-k8s-devenir-le-cauchemar-de-vos-administrateurs-k8s.md) de **Ne laissez pas vos mauvaises habitudes k8s devenir le cauchemar de vos administrateurs k8s** par Henrik Rexed ([@hrexed](https://twitter.com/hrexed))
 * [Slides](https://github.com/sre-france/meetups/blob/main/meetups/2022-05-24/why-only-measuring-uptime-isnt-enough-to-meet-user-expectations.pdf) et [description complète](https://github.com/sre-france/meetups/blob/main/meetups/2022-05-24/why-only-measuring-uptime-isnt-enough-to-meet-user-expectations.md) de **Why only measuring uptime isn't enough to meet user-expectations** par Pablo Seminario ([@pabluk](https://twitter.com/pabluk))
 
 
