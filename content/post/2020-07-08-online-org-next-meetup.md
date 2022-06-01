@@ -7,7 +7,7 @@ Hi everyone,
 
 I hope you are all doing well.
 
-Following the discussions on our [Telegram channel](https://t.me/+djs7fX8-2xwyYjJk) we wanted to start sharing ideas and topics in order to prepare the agenda the next SRE meetup.
+Following the discussions on our [Telegram channel](https://t.me/+lH1dMlrK0q5hNTk8) we wanted to start sharing ideas and topics in order to prepare the agenda the next SRE meetup.
 
 <!--more-->
 
