@@ -15,7 +15,7 @@ Au programme, un retour d'expérience sur Thanos et un outil pour le monitoring 
 
 L'enregistrement du meetup a été possible grâce à l'aide de [Gérald](https://twitter.com/GeraldCrescione) de [driftctl](https://driftctl.com/) 🙏, il est disponible ici avec les timestamps/chapters :
 
-{{< youtube gNtl2aCeh7s >}}
+{{< youtube zblgkbmh22I >}}
 
 Pour les détails des présentations c'est par ici:
 

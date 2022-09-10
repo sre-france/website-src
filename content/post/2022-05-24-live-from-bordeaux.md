@@ -21,7 +21,7 @@ des utilisateurs.
 
 L'enregistrement du meetup a été possible grâce à l'aide de Romain de [Mirakl](https://www.mirakl.com/) 🙏, il est disponible ici avec les timestamps/chapters :
 
-{{< youtube rrnCVoiALj0 >}}
+{{< youtube BfGcrBmuUyg >}}
 
 Pour les détails des présentations c'est par ici:
 

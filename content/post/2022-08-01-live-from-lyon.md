@@ -16,7 +16,7 @@ Deux conférences ont ensuite été proposées: une vue générale des élément
 
 L'enregistrement du meetup est disponible ici avec les timestamps/chapters:
 
-{{< youtube agf3jSPoST4>}}
+{{< youtube 5GxEaOzIZ7I >}}
 
 Pour les détails des présentations c'est par ici: [https://github.com/sre-france/meetups/tree/main/meetups/2022-07-12](https://github.com/sre-france/meetups/tree/main/meetups/2022-07-12)
 
