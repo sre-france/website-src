@@ -52,6 +52,7 @@ pygmentsCodefencesGuessSyntax = true
   website = "https://sre-france.github.io/"
   github = "sre-france"
   telegram = "joinchat/UtlUno6ukr0r6v6I"
+  youtube = "channel/UC02gfdwOcDsShPs6DRb7GNA"
 
 [[menu.main]]
     name = "Meetups"
