@@ -21,7 +21,7 @@ Kubernetes
 
 L'enregistrement du meetup a été possible grâce à l'aide d'Emmanuel de [Mirakl](https://github.com/sre-paris/meetups/blob/main/meetups/%2310/mirakl-intro.pdf) 🙏, il est disponible ici avec les timestamps/chapters :
 
-{{< youtube nMZp15jrSmM >}}
+{{< youtube s_ARaVpzeAY >}}
 
 Pour les détails des présentations c'est par ici:
 

@@ -21,7 +21,7 @@ Grafana.
 
 L'enregistrement du meetup a été possible grâce à l'aide d'Emmanuel de [Mirakl](https://www.mirakl.com/) 🙏, il est disponible ici avec les timestamps/chapters :
 
-{{< youtube PMS8kn3KTbA >}}
+{{< youtube Z7kVwUA6Dns >}}
 
 Pour les détails des présentations c'est par ici:
 
