@@ -12,11 +12,11 @@ sur place et une autre vingtaine en ligne.
 
 La soirée a commencé avec quelques news du groupe, le [récap du SRE
 SummerCamp][summercamp] et la présentation de l'[initiative du groupe pour
-contribuer à des projets open-source][open-source-sponsoring].
+contribuer financièrement à des projets open-source][open-source-sponsoring].
 
 Ensuite, on a enchaîné avec les présentations au programme, la première sur **les
 nouveautés de la Kubernetes Gateway API** avec sa démo, et la deuxième avec une
-**overview des principaux projets Open Source de Grafana** et une démo de son stack
+**overview des principaux projets Open Source de Grafana** et une démo de sa stack
 d'observabilité.
 
 <!--more-->
@@ -29,9 +29,9 @@ Pour les détails des présentations c'est par ici:
 
 * les slides [/meetups/2022-11-23][meetup-assets]
 * les [photos par ici][meetup-photos]
-* et la description complète de [l'événement sur meetup.com][meetup-detail]
+* la description complète de [l'événement sur meetup.com][meetup-detail]
 
-Merci encore une fois aux speakers, à WeScale et à tous les participants 🙏 et à très bientôt !
+Merci encore une fois aux speakers, à WeScale et à tous les participants·es 🙏 et à très bientôt !
 
 
 [wescale]: https://www.wescale.fr/
