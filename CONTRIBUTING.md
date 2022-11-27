@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 ## Support
 
 For any questions or discussions related to SRE Paris group please contact us
-on [our Telegram's group](https://t.me/joinchat/UtlUno6ukr0r6v6I)
+on [our Telegram's group](https://t.me/+lH1dMlrK0q5hNTk8)
 
 ## Reporting a bug or a typo
 
@@ -83,7 +83,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting any of the [group admins on Telegram](https://t.me/joinchat/UtlUno6ukr0r6v6I).
+reported by contacting any of the [group admins on Telegram](https://t.me/+lH1dMlrK0q5hNTk8).
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The group admins are 
 obligated to maintain confidentiality with regard to the reporter of an incident.
