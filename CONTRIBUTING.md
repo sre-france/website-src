@@ -2,22 +2,22 @@
 
 First off, thanks for taking the time to contribute! :tada::+1:
 
-Please note we have a code of conduct, please follow it in all your interactions with the SRE Paris group.
+Please note we have a code of conduct, please follow it in all your interactions with the SRE France group.
 
 ## Support
 
-For any questions or discussions related to SRE Paris group please contact us
+For any questions or discussions related to SRE France group please contact us
 on [our Telegram's group](https://t.me/+lH1dMlrK0q5hNTk8)
 
 ## Reporting a bug or a typo
 
-We use GitHub issues to track bugs or typos. Report a bug by [opening a new issue](https://github.com/sre-paris/website-src/issues/new); it's that easy!
+We use GitHub issues to track bugs or typos. Report a bug by [opening a new issue](https://github.com/sre-france/website-src/issues/new); it's that easy!
 
 ## Submitting changes
 
 If you have any idea to improve this website please don't hesitate to open a pull request.
 
-All the contributions on this repo are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/sre-paris/website-src/blob/master/LICENSE).
+All the contributions on this repo are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/sre-france/website-src/blob/master/LICENSE).
 
 1. Fork this repo
 2. Clone your fork of the repo and its submodule
