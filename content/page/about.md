@@ -6,7 +6,7 @@ comments: false
 socialShare: false
 ---
 
-Ceci est un site pour des personnes intéressés par la thématique Site
+Ceci est un site pour des personnes intéressées par la thématique Site
 Reliability Engineering partout en France.
 
 Pour ceux qui font partie d'une équipe SRE, ceux qui veulent créer une équipe
