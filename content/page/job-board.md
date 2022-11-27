@@ -27,8 +27,6 @@ Here's a curated list of sites where you can find new jobs opportunities.
   [leboncoin.fr](https://www.leboncoin.fr/boutique/11532/postulez_aux_offres_d_emploi_leboncoin.htm/)
 * **Datadog** Engineering
   [careers.datadoghq.com/engineering](https://careers.datadoghq.com/engineering/)
-* **PeopleDoc**
-  [boards.greenhouse.io/peopledoc](https://boards.greenhouse.io/peopledoc)
 * **Criteo** Labs
   [criteo.com/careers](https://careers.criteo.com/search-results?keywords=sre)
 * **InterCloud**
