@@ -12,8 +12,6 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Boards
 
-* **SRE Jobs** [srejobs.com](https://srejobs.com/) or via Twitter
-  [@srejobs](https://twitter.com/srejobs)
 * **Remote Ok**
   [remoteok.io/remote-sre-jobs](https://remoteok.io/remote-sre-jobs)
 * **Welcome to the Jungle**
