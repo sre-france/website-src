@@ -18,4 +18,4 @@ aussi via :
 
 * notre groupe [meetup.com/Site-Reliability-Engineering-France](https://www.meetup.com/Site-Reliability-Engineering-France/)
 * par DM via notre compte Twitter [@SREFrance](https://twitter.com/SREFrance)
-* ou par email à srefranceasso@gmail.com
+* par email à srefranceasso@gmail.com
