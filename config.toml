@@ -53,6 +53,7 @@ pygmentsCodefencesGuessSyntax = true
   github = "sre-france"
   telegram = "+lH1dMlrK0q5hNTk8"
   youtube = "@srefrance"
+  twitter = "SREFrance"
 
 [[menu.main]]
     name = "Meetups"
