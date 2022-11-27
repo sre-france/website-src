@@ -12,8 +12,6 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Boards
 
-* **SRE Jobs** [srejobs.com](https://srejobs.com/) or via Twitter
-  [@srejobs](https://twitter.com/srejobs)
 * **Remote Ok**
   [remoteok.io/remote-sre-jobs](https://remoteok.io/remote-sre-jobs)
 * **Welcome to the Jungle**
@@ -28,9 +26,7 @@ Here's a curated list of sites where you can find new jobs opportunities.
 * **Le Bon Coin** Recrutement
   [leboncoin.fr](https://www.leboncoin.fr/boutique/11532/postulez_aux_offres_d_emploi_leboncoin.htm/)
 * **Datadog** Engineering
-  [datadoghq.com/jobs-engineering](https://www.datadoghq.com/jobs-engineering/)
-* **PeopleDoc**
-  [boards.greenhouse.io/peopledoc](https://boards.greenhouse.io/peopledoc)
+  [careers.datadoghq.com/engineering](https://careers.datadoghq.com/engineering/)
 * **Criteo** Labs
   [criteo.com/careers](https://careers.criteo.com/search-results?keywords=sre)
 * **InterCloud**
