@@ -14,10 +14,11 @@ La soirée a commencé avec quelques news du groupe, le [récap du SRE
 SummerCamp][summercamp] et la présentation de l'[initiative du groupe pour
 contribuer financièrement à des projets open-source][open-source-sponsoring].
 
-Ensuite, on a enchaîné avec les présentations au programme, la première sur **les
-nouveautés de la Kubernetes Gateway API** avec sa démo, et la deuxième avec une
-**overview des principaux projets Open Source de Grafana** et une démo de sa stack
-d'observabilité.
+Ensuite, on a enchaîné avec les présentations au programme, la première sur
+**les nouveautés de la Kubernetes Gateway API** avec sa démo par **Pierre-Yves
+Aillet** ([@pyaillet][tw-pyaillet]), et la deuxième avec une **overview des
+principaux projets Open Source de Grafana** et une démo de sa stack
+d'observabilité par **Nabeel Saad** ([@saadnabs][tw-saadnabs]).
 
 <!--more-->
 
@@ -37,6 +38,8 @@ Merci encore une fois aux speakers, à WeScale et à tous les participants·es �
 [wescale]: https://www.wescale.fr/
 [summercamp]: https://sre-france.github.io/post/2022-09-05-summercamp-2022/
 [open-source-sponsoring]: https://sre-france.github.io/post/2022-11-08-sponsor/
+[tw-pyaillet]: https://twitter.com/pyaillet
+[tw-saadnabs]: https://twitter.com/saadnabs
 [meetup-assets]: https://github.com/sre-france/meetups/tree/main/meetups/2022-11-23/
 [meetup-detail]: https://www.meetup.com/site-reliability-engineering-france/events/289355393/
 [meetup-photos]: https://www.meetup.com/site-reliability-engineering-france/photos/33020477/
