@@ -81,6 +81,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 5
 
 [[menu.main]]
+    name = "Donations"
+    url = "https://sre-france.assoconnect.com/collect/description/258015-h-mon-don"
+    weight = 6
+
+[[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 6
+    weight = 7
