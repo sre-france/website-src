@@ -19,6 +19,8 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Companies
 
+* **Botify**
+  [jobs.lever.co/botify](https://jobs.lever.co/botify/1cba7099-c0e1-4866-9c87-1a863b415852?lever-origin=applied&lever-source%5B%5D=Job%20Board)
 * **Mirakl** Labs
   [labs.mirakl.jobs](https://labs.mirakl.jobs/emplois)
 * **DataDome**
