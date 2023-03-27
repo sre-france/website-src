@@ -10,7 +10,7 @@ De retour à Paris, ce dernier meetup a été hébergé dans les nouveaux locaux
 
 Un grand merci à Victor et Damien de BlaBlaCar pour leur aide avec la coordination et organisation ! 🙏 
 
-On a commencé la soirée avec une petite introduction et on est passé rapidement aux présentations :
+On a commencé la soirée avec une petite introduction et nous sommes passés rapidement aux présentations :
 
 * la première c'était une overview technique de BlaBlaCar par **Maxime Fouilleul** Engineering Manager chez BlaBlaCar
 * la deuxième avec **Martin Piegay** et **Damien Bertau** qui ont parlé de l'implémentation des SLOs chez BlaBlaCar
