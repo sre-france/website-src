@@ -19,6 +19,8 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Companies
 
+* **Grafana Labs**
+  [boards.greenhouse.io/grafanalabs](https://boards.greenhouse.io/grafanalabs/jobs/4928767004)
 * **Mirakl** Labs
   [labs.mirakl.jobs](https://labs.mirakl.jobs/emplois)
 * **DataDome**
