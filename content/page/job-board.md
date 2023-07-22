@@ -12,15 +12,15 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Boards
 
+* **Welcome to the Jungle**
+  [welcometothejungle.co/en/jobs](https://www.welcometothejungle.com/en/jobs?query=sre)
 * **Remote Ok**
   [remoteok.io/remote-sre-jobs](https://remoteok.io/remote-sre-jobs)
-* **Welcome to the Jungle**
-  [welcometothejungle.co/en/jobs](https://www.welcometothejungle.co/en/jobs?query=sre&refinementList%5Blanguage%5D=)
 
 ## Companies
 
-* **Botify**
-  [jobs.lever.co/botify](https://jobs.lever.co/botify/1cba7099-c0e1-4866-9c87-1a863b415852?lever-origin=applied&lever-source%5B%5D=Job%20Board)
+* **Grafana Labs**
+  [boards.greenhouse.io/grafanalabs](https://boards.greenhouse.io/grafanalabs/jobs/4928767004)
 * **Mirakl** Labs
   [labs.mirakl.jobs](https://labs.mirakl.jobs/emplois)
 * **DataDome**
@@ -30,7 +30,7 @@ Here's a curated list of sites where you can find new jobs opportunities.
 * **Datadog** Engineering
   [careers.datadoghq.com/engineering](https://careers.datadoghq.com/engineering/)
 * **Criteo** Labs
-  [criteo.com/careers](https://careers.criteo.com/search-results?keywords=sre)
+  [criteo.com/careers](https://careers.criteo.com/en/jobs/?keyword=sre#results)
 * **InterCloud**
   [welcometothejungle.com/fr/companies/intercloud/jobs](https://www.welcometothejungle.com/fr/companies/intercloud/jobs)
 * **Polyconseil**
