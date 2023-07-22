@@ -12,10 +12,10 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Boards
 
+* **Welcome to the Jungle**
+  [welcometothejungle.co/en/jobs](https://www.welcometothejungle.com/en/jobs?query=sre)
 * **Remote Ok**
   [remoteok.io/remote-sre-jobs](https://remoteok.io/remote-sre-jobs)
-* **Welcome to the Jungle**
-  [welcometothejungle.co/en/jobs](https://www.welcometothejungle.co/en/jobs?query=sre&refinementList%5Blanguage%5D=)
 
 ## Companies
 
