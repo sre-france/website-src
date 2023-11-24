@@ -10,7 +10,7 @@ Ce dernier meetup de l'année a eu lieu à Paris et a été hébergé dans les l
 
 Un grand merci à Marion et Aurore de [Padok](https://www.padok.fr/) pour toute l'aide avec la coordination et l'organisation ! 🙏 
 
-On a commencé la soirée avec une présentation de Padok par sa CTO, Aurore Malherbes, suivi des news du groupe SRE FRance et en suite nous sommes passés aux présentations :
+On a commencé la soirée avec une présentation de Padok par sa CTO, Aurore Malherbes, suivi des news du groupe SRE France et nous sommes passés ensuite aux présentations :
 
 
 * Burrito is a TACoS par **Alan Longuet** ([@longuetalan](https://twitter.com/LonguetAlan)) & **Sacha Bernheim** ([@spoukke](https://twitter.com/spoukke))
