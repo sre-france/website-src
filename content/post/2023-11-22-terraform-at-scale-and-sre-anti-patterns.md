@@ -6,7 +6,7 @@ image: "/img/meetup/18-1.jpg"
 tags: ["meetup"]
 ---
 
-Ce dernier meetup de l'année a eu lieu à Paris et hébergé dans les locaux de [Padok](https://www.padok.fr/), comme d'habitude en mode hybride, il y a eu environ 59 participants sur place et 15 online. 
+Ce dernier meetup de l'année a eu lieu à Paris et a été hébergé dans les locaux de [Padok](https://www.padok.fr/), comme d'habitude en mode hybride. Il y a eu environ une soixantaine de participants et participantes sur place et 15 online. 
 
 Un grand merci à Marion et Aurore de [Padok](https://www.padok.fr/) pour toute l'aide avec la coordination et l'organisation ! 🙏 
 
