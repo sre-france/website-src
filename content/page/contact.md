@@ -17,5 +17,5 @@ Pour des questions liés à l'organisation de meetups vous pouvez nous contacter
 aussi via :
 
 * notre groupe [meetup.com/Site-Reliability-Engineering-France](https://www.meetup.com/Site-Reliability-Engineering-France/)
-* par DM via notre compte Twitter [@SREFrance](https://twitter.com/SREFrance)
+* par DM via nos comptes [Mastodon @srefrance](https://piaille.fr/@srefrance), [Bluesky @srefrance](https://bsky.app/profile/srefrance.bsky.social) ou [X @SREFrance](https://x.com/SREFrance)
 * par email à srefranceasso@gmail.com
