@@ -82,7 +82,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Donations"
-    url = "https://sre-france.assoconnect.com/collect/description/258015-h-mon-don"
+    url = "https://www.helloasso.com/associations/sre-france/formulaires/1"
     weight = 6
 
 [[menu.main]]
