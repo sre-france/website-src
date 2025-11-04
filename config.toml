@@ -54,6 +54,8 @@ pygmentsCodefencesGuessSyntax = true
   telegram = "+lH1dMlrK0q5hNTk8"
   youtube = "@srefrance"
   twitter = "SREFrance"
+  bluesky = "srefrance.bsky.social"
+  mastodon = "piaille.fr/@srefrance"
 
 [[menu.main]]
     name = "Meetups"
