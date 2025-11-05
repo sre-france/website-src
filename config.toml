@@ -33,6 +33,7 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
+  since = 2022
 
 [[Params.bigimg]]
   src = "img/bigimg-01.webp"
