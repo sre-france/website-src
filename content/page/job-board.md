@@ -19,6 +19,8 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Companies
 
+* **bsport**
+  [careers.bsport.io](https://careers.bsport.io/jobs?department=Software+Engineering)
 * **Grafana Labs**
   [job-boards.greenhouse.io/grafanalabs](https://job-boards.greenhouse.io/grafanalabs?departments%5B%5D=4044019004)
 * **Mirakl** Labs
