@@ -31,7 +31,5 @@ Here's a curated list of sites where you can find new jobs opportunities.
   [careers.datadoghq.com/engineering](https://careers.datadoghq.com/engineering/)
 * **Criteo** Labs
   [criteo.com/careers](https://careers.criteo.com/en/jobs/?keyword=sre#results)
-* **InterCloud**
-  [welcometothejungle.com/fr/companies/intercloud/jobs](https://www.welcometothejungle.com/fr/companies/intercloud/jobs)
 * **Polyconseil**
   [welcometothejungle.co/fr/companies/polyconseil/jobs](https://www.welcometothejungle.com/fr/companies/polyconseil/jobs)
