@@ -13,14 +13,14 @@ Here's a curated list of sites where you can find new jobs opportunities.
 ## Boards
 
 * **Welcome to the Jungle**
-  [welcometothejungle.co/en/jobs](https://www.welcometothejungle.com/en/jobs?query=sre)
+  [welcometothejungle.co/fr/jobs](https://www.welcometothejungle.com/fr/jobs?query=SRE)
 * **Remote Ok**
-  [remoteok.io/remote-sre-jobs](https://remoteok.io/remote-sre-jobs)
+  [remoteok.io](https://remoteok.com/?search=sre)
 
 ## Companies
 
 * **Grafana Labs**
-  [boards.greenhouse.io/grafanalabs](https://boards.greenhouse.io/grafanalabs/jobs/4928767004)
+  [job-boards.greenhouse.io/grafanalabs](https://job-boards.greenhouse.io/grafanalabs?departments%5B%5D=4044019004)
 * **Mirakl** Labs
   [labs.mirakl.jobs](https://labs.mirakl.jobs/emplois)
 * **DataDome**
