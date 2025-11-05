@@ -25,7 +25,7 @@ Pour discuter et collaborer avec le groupe n'hésitez pas à nous joindre via
 notre [page de contact](/page/contact/). Pour ceux et celles qui veulent
 soutenir les activités de l'association vous pouvez utiliser notre [formulaire
 de
-dons](https://sre-france.assoconnect.com/collect/description/258015-h-mon-don).
+dons](https://www.helloasso.com/associations/sre-france/formulaires/1).
 
 N'hésitez pas à visiter le [Jobs Board SRE](/page/job-board/) avec des offres
 d'emploi en France et en remote.
