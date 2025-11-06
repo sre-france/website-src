@@ -1,6 +1,7 @@
 ---
 title: Job Board
 subtitle: Looking for new challenges
+lastmod: 2025-11-05T17:30:00+01:00
 image: "img/share.png"
 comments: false
 socialShare: false
@@ -13,14 +14,16 @@ Here's a curated list of sites where you can find new jobs opportunities.
 ## Boards
 
 * **Welcome to the Jungle**
-  [welcometothejungle.co/en/jobs](https://www.welcometothejungle.com/en/jobs?query=sre)
+  [welcometothejungle.co/fr/jobs](https://www.welcometothejungle.com/fr/jobs?query=SRE)
 * **Remote Ok**
-  [remoteok.io/remote-sre-jobs](https://remoteok.io/remote-sre-jobs)
+  [remoteok.io](https://remoteok.com/?search=sre)
 
 ## Companies
 
+* **bsport**
+  [careers.bsport.io](https://careers.bsport.io/jobs?department=Software+Engineering)
 * **Grafana Labs**
-  [boards.greenhouse.io/grafanalabs](https://boards.greenhouse.io/grafanalabs/jobs/4928767004)
+  [job-boards.greenhouse.io/grafanalabs](https://job-boards.greenhouse.io/grafanalabs?departments%5B%5D=4044019004)
 * **Mirakl** Labs
   [labs.mirakl.jobs](https://labs.mirakl.jobs/emplois)
 * **DataDome**
@@ -31,7 +34,5 @@ Here's a curated list of sites where you can find new jobs opportunities.
   [careers.datadoghq.com/engineering](https://careers.datadoghq.com/engineering/)
 * **Criteo** Labs
   [criteo.com/careers](https://careers.criteo.com/en/jobs/?keyword=sre#results)
-* **InterCloud**
-  [welcometothejungle.com/fr/companies/intercloud/jobs](https://www.welcometothejungle.com/fr/companies/intercloud/jobs)
 * **Polyconseil**
   [welcometothejungle.co/fr/companies/polyconseil/jobs](https://www.welcometothejungle.com/fr/companies/polyconseil/jobs)
