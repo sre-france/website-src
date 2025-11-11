@@ -1,4 +1,4 @@
-baseURL = "https://sre-france.github.io/"
+baseurl = "https://sre-france.github.io/"
 languageCode = "en-us"
 title = "SRE France"
 theme = "beautifulhugo"
@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "SRE France"
-  subtitle = "Site reliability engineers in France"
+  subtitle = "Site Reliability Engineers in France"
   mainSections = ["post","posts"]
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -48,15 +48,15 @@ pygmentsCodefencesGuessSyntax = true
   desc = ""
   position = "center top"
 
-
-[Author]
-  website = "https://sre-france.github.io/"
+[Params.author]
+  name = "SRE France Association"
   github = "sre-france"
   telegram = "+lH1dMlrK0q5hNTk8"
   youtube = "@srefrance"
   twitter = "SREFrance"
   bluesky = "srefrance.bsky.social"
   mastodon = "piaille.fr/@srefrance"
+  email = "srefranceasso@gmail.com"
 
 [[menu.main]]
     name = "Meetups"
