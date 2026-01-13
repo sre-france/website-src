@@ -20,6 +20,8 @@ Here's a curated list of sites where you can find new jobs opportunities.
 
 ## Companies
 
+* **Botify**
+  [jobs.botify.com](https://jobs.botify.com/jobs?split_view=true&query=&department=Engineering)
 * **bsport**
   [careers.bsport.io](https://careers.bsport.io/jobs?department=Software+Engineering)
 * **Grafana Labs**
