@@ -1,7 +1,7 @@
 ---
 title: Job Board
 subtitle: Looking for new challenges
-lastmod: 2025-11-05T17:30:00+01:00
+lastmod: 2026-01-13T17:30:00+01:00
 image: "img/share.png"
 comments: false
 socialShare: false
