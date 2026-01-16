@@ -29,3 +29,4 @@ jobs:
           external_repository: sre-france/sre-france.github.io
           publish_branch: master
           publish_dir: ./public
+          cname: srefrance.org
