@@ -1,4 +1,4 @@
-baseurl = "https://sre-france.github.io/"
+baseurl = "https://srefrance.org/"
 languageCode = "en-us"
 title = "SRE France"
 theme = "beautifulhugo"
