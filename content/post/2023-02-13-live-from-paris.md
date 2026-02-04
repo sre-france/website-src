@@ -18,7 +18,7 @@ Le programme de la soirée était bien chargé, on a commencé brièvement par l
 * **Benoît Goujon** sur comment utiliser des pratiques SRE dans un incident Data
 * et pour finir, **Benjamin Sanvoisin** sur l'approche WYSIWYG pour contribuer plus rapidement dans d'importantes code base Terraform
 
-Ce meetup était aussi l'occasion de tirer au sort deux personnes pour leur faire gagner une place pour le [KCD France](https://www.kcdfrance.fr/). Encore merci à CNCF Paris ! Photo: https://twitter.com/SREFrance/status/1625921867067293701
+Ce meetup était aussi l'occasion de tirer au sort deux personnes pour leur faire gagner une place pour le [KCD France](https://www.kcdfrance.fr/). Encore merci à CNCF Paris ! [Photo](https://twitter.com/SREFrance/status/1625921867067293701)
 
 <!--more-->
 
