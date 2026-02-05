@@ -6,7 +6,7 @@ image: "/img/meetup/21.jpg"
 tags: ["meetup"]
 ---
 
-Ce premier meetup de l'année a eu lieu à Paris pour se préparer au [Cloud Native Days France 2026](https://www.cloudnativedays.fr/), et a été hébergé dans les locaux d'[Akamai France](https://www.akamai.com/fr), comme d'habitude en mode hybride. Il y a eu environ une treintaine de participants et participantes sur place et online. 
+Ce premier meetup de l'année a eu lieu à Paris pour se préparer au [Cloud Native Days France 2026](https://www.cloudnativedays.fr/), et a été hébergé dans les locaux d'[Akamai France](https://www.akamai.com/fr), comme d'habitude en mode hybride. Il y a eu environ une trentaine de participants et participantes sur place et online. 
 
 Un grand merci à Guilhem, Fabien et Aurore d'[Akamai France](https://www.akamai.com/fr) pour toute l'aide avec la coordination et l'organisation ! 🙏 
 
