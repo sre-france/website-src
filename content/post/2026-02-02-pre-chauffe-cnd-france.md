@@ -13,7 +13,7 @@ Un grand merci à Guilhem, Fabien et Aurore d'[Akamai France](https://www.akamai
 On a commencé la soirée avec une présentation d'Akamai Technologies par Fabien Poncet, suivi des news du groupe SRE France et ensuite nous sommes passés aux présentations :
 
 
-* Automatisez et gerez les mises à jour GitOps des "add-ons" de clusters Kubernetes par **Xavier Krantz** ([@xakraz](https://github.com/xakraz))
+* Automatisez et gérez les mises à jour GitOps des "add-ons" de clusters Kubernetes par **Xavier Krantz** ([@xakraz](https://github.com/xakraz))
 * OCM and Sveltos integration for a multicluster setup with rundev par **Guilhem Lettron** ([@guilhemlettron](https://x.com/guilhemlettron))
 
 <!--more-->
