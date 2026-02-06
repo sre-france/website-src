@@ -19,6 +19,13 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "SRE France"
+  organizationName = "SRE France"
+  organizationLogo = "img/logo.png"
+  organizationAddress = "FR"
+  foundingDate = "2022"
+  nonprofitStatus = "Nonprofit501c3"
+  socialProfiles = ["https://piaille.fr/@srefrance", "https://bsky.app/profile/srefrance.bsky.social", "https://github.com/sre-france/", "https://www.meetup.com/Site-Reliability-Engineering-France/"]
+  knowsAbout = ["Site Reliability Engineering", "DevOps", "Cloud Infrastructure", "Open Source"]
   subtitle = "Site Reliability Engineers in France"
   mainSections = ["post","posts"]
   favicon = "img/favicon.ico"

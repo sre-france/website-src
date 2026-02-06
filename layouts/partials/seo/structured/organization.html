@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "@id": "{{ .Site.BaseURL }}#organization",
+  "name": "{{ .Site.Params.organizationName }}",
+  "legalName": "{{ .Site.Params.organizationName }}",
+  "url": "{{ .Site.BaseURL }}"
+  {{ with .Site.Params.foundingDate }}, "foundingDate": {{ . }}{{ end }}
+  {{ with .Site.Params.nonprofitStatus }}, "nonprofitStatus": {{ . }}{{ end }}
+  {{ with .Site.Params.socialProfiles }}, "sameAs": {{ . }}{{ end }}
+  {{ with .Site.Params.knowsAbout }}, "knowsAbout": {{ . }}{{ end }}
+  {{ with .Site.Params.organizationLogo }}, "logo": "{{ $.Site.BaseURL }}{{ . }}"{{ end }}
+  {{ with .Site.Params.organizationAddress }}, "address": {"@type": "PostalAddress", "addressCountry": "{{ . }}"}{{ end }}
+  {{ with .Site.Data.organization.contacts.contactPoint }}, "contactPoint": {{ . }}{{ end }}
+}
+</script>
